@@ -11,10 +11,6 @@ import javafx.scene.image.*;
 import java.io.FileInputStream;
 import javafx.stage.Stage;
 
-/**
- *
- * @author iyah
- */
 public class Main extends Application {
 
     //Launch Application
